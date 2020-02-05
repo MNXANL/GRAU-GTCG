@@ -14,5 +14,5 @@ Marks per lab:
 
 2 -> 7.8 : janky rotation; extra mark was added if I did extra features, which was implicitly on the statement
 
-3 -> 1.9 : not here, was really awful. How to solve it: doing it w/4 methods: coords sys change, Foley-Van Dam, Compact Formula and Quaternions
+3 -> 1.9 : not here, was really awful. How to solve it: doing it w/4 methods: coords sys change, Foley-Van Dam, Compact Formula and Quaternions (The Final Exam from 2020 has an exercise related to the methodology of this lab)
 
